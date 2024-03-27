@@ -23,7 +23,7 @@
     "next": "latest",
     "next-i18next": "^13.2.2",
     "nextjs-google-analytics": "^2.3.3",
-    "openai": "^3.2.1",
+    "openai": "^4.29.2",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-hook-form": "^7.42.0",
